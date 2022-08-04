@@ -1,0 +1,23 @@
+PODS:
+  - CustomUIKit (0.1.0):
+    - Masonry
+  - Masonry (1.1.0)
+
+DEPENDENCIES:
+  - CustomUIKit (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+
+EXTERNAL SOURCES:
+  CustomUIKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CustomUIKit: d90c9b8c063df9697ee1ebc5c70f5bc7bc343b05
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+
+PODFILE CHECKSUM: 2ee98bb070de7faff5efb2551afe272c8b53f3e6
+
+COCOAPODS: 1.11.2

@@ -1,0 +1,36 @@
+{
+  "name": "CustomUIKit",
+  "version": "0.1.0",
+  "summary": "Test Zujian Demo",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "homepage": "https://github.com/[lvzhexue]/CustomUIKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "[lvzhexue]": "[lvzhexue@hualala.com]"
+  },
+  "source": {
+    "git": "https://github.com/[lvzhexue]/CustomUIKit.git",
+    "tag": "0.1.0"
+  },
+  "resources": [
+    "Images/*.png",
+    "Sounds/*"
+  ],
+  "resource_bundles": {
+    "ABC_section": [
+      "Class/ABCImage/*png"
+    ]
+  },
+  "dependencies": {
+    "Masonry": [
+
+    ]
+  },
+  "description": "TODO: Add long description of the pod here.",
+  "source_files": "CustomUIKit/Classes/**/*"
+}
